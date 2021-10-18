@@ -1,0 +1,17 @@
+
+.banner-text {
+    margin-top: 100px;
+}
+.banner-img {
+    margin-top: 80px;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+.carousel {
+    background-image: url(../../../images/banner-bg.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 8;
+}
