@@ -1,0 +1,8 @@
+.blog {
+    background-color: antiquewhite;
+}
+.blog-icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}

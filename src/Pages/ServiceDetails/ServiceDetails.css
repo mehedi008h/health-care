@@ -1,0 +1,7 @@
+.details {
+    margin-top: 100px;
+}
+.details-img {
+    height: 300px;
+    object-fit: cover;
+}

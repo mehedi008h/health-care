@@ -1,0 +1,40 @@
+{
+    "service": [
+        {
+            "id": 1,
+            "name": "Therapy",
+            "description": "A therapy or medical treatment is the attempted remediation of a health problem, usually following a medical diagnosis. As a rule, each therapy has indications and contraindications. ",
+            "img": "https://i.ibb.co/mTMgf01/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Dentistry",
+            "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral.",
+            "img": "https://i.ibb.co/dk8Lf4D/jonathan-borba-hl6u-G9c-HW5-A-unsplash.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Virusology",
+            "description": "Virology publishes papers that provide advances to the understanding of virus biology. We have been publishing the results of basic research in all branches of virology for over 60 years. ",
+            "img": "https://i.ibb.co/MftC0J7/pexels-anna-shvets-3786157.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pharmacology",
+            "description": "Pharmacology is a branch of medicine, biology and pharmaceutical sciences concerned with drug or medication action, where a drug may be defined as any artificial, natural, or endogenous molecule which exerts a biochemical .",
+            "img": "https://i.ibb.co/9nW4G4n/pexels-anna-shvets-3683041.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Cardiology",
+            "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease.",
+            "img": "https://i.ibb.co/hZXmB23/pexels-karolina-grabowska-4386466.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Researches",
+            "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease.",
+            "img": "https://i.ibb.co/KXJKpsS/pexels-artem-podrez-5726809.jpg"
+        }
+    ]
+}

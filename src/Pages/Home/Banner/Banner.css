@@ -1,11 +1,13 @@
-
+.banner {
+    background-color: darkgoldenrod;
+    height: 450px;
+}
 .banner-text {
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 30px;
 }
 .banner-img {
-    margin-top: 80px;
-    height: 400px;
-    width: 400px;
+    margin-top: 60px;
     border-radius: 50%;
 }
 .carousel {
